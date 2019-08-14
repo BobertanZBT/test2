@@ -1,1 +1,7 @@
-println("HelloWorld!")
+
+
+public class test{
+
+
+
+} 
